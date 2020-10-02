@@ -1,7 +1,7 @@
 # Ray ML
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moorthi-n/ray_ml.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moorthi-n/ray_ml.git/main)
 
 
 
