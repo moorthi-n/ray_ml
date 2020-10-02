@@ -7,7 +7,8 @@
 | [Distributed Machine Learning with Ray](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml) | [[md](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml/slides.md)][[pdf](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml/slides.pdf)] | [[ipynb](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml/notebook.ipynb)][[html](https://nbviewer.jupyter.org/urls/git.sr.ht/~hyphaebeast/ray-live-training/blob/refs/heads/master/dist-ml/notebook.ipynb)] |
 | [Bayesian Hyperparameter Optimization](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization) | [[md](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization/slides.md)][[pdf](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization/slides.pdf)] | [[ipynb](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization/notebook.ipynb)][[html](https://nbviewer.jupyter.org/urls/git.sr.ht/~hyphaebeast/ray-live-training/blob/refs/heads/master/hyperparameter-optimization/notebook.ipynb)] |
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.sr.ht%2F~hyphaebeast%2Fray-live-training/master)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moorthi-n/ray_ml.git/master)
 
 ## Getting the Materials
 
