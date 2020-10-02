@@ -1,21 +1,47 @@
-# Ray Live Training
-
-> Scaling AI Applications in Python with the Ray Framework
-
-| Course | Slides | Code |
-|:---:|:--:|:--:|
-| [Distributed Machine Learning with Ray](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml) | [[md](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml/slides.md)][[pdf](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml/slides.pdf)] | [[ipynb](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/dist-ml/notebook.ipynb)][[html](https://nbviewer.jupyter.org/urls/git.sr.ht/~hyphaebeast/ray-live-training/blob/refs/heads/master/dist-ml/notebook.ipynb)] |
-| [Bayesian Hyperparameter Optimization](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization) | [[md](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization/slides.md)][[pdf](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization/slides.pdf)] | [[ipynb](https://git.sr.ht/~hyphaebeast/ray-live-training/tree/master/hyperparameter-optimization/notebook.ipynb)][[html](https://nbviewer.jupyter.org/urls/git.sr.ht/~hyphaebeast/ray-live-training/blob/refs/heads/master/hyperparameter-optimization/notebook.ipynb)] |
+# Ray ML
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moorthi-n/ray_ml.git/master)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Getting the Materials
 
-`git clone https://git.sr.ht/~hyphaebeast/ray-live-training`
+
+
+`git clone https://github.com/moorthi-n/ray_ml.git`
 
 * [homepage](https://sr.ht/~hyphaebeast/ray-live-training/)
 * [forum/mailing list](https://lists.sr.ht/~hyphaebeast/ray-live-training)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Help (mailing list)
 
